@@ -86,7 +86,7 @@
 
 .footer { 
   color: #fff; 
-  padding: 30px 0; 
+  /* padding: 30px 0;  */
 } 
 
 .footer-links a { 
@@ -118,7 +118,7 @@
   background-color: rgb(9, 243, 243);
 }
 
-#qualification1:hover{
+/* #qualification1:hover{
   transform: scale(1.1);
 } 
  #qualification2:hover{
@@ -127,9 +127,9 @@
 
 #qualification3:hover{
   transform: scale(1.1);
-}
+} */
 
-#project3:hover{
+/* #project3:hover{
   transform: scale(1.1);
 }
 #project2:hover{
@@ -137,7 +137,7 @@
 }
 #project1:hover{
   transform: scale(1.1);
-}
+} */
 #abtimage:hover {
   transform: scaleX(-1);
 }
